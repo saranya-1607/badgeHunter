@@ -6,7 +6,7 @@ This repository is dedicated to **practicing GitHub, contributing to open source
 
 Every commit, pull request, and contribution here helps me **unlock new badges** while improving my coding and collaboration skills.
 
----
+----
 
 ## 📋 Goals
 
